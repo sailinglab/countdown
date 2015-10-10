@@ -4,7 +4,7 @@ Academic deadlines countdown for Sailors: http://sailinglab.github.io/countdown
 
 ## How to contribute
 
-1. Click [index.html](https://github.com/sailinglab/countdown/edit/gh-pages/index.html) to start editing
+1. Click [index.html](https://github.com/sailinglab/countdown/edit/gh-pages/index.html) to start editing.
 2. Add your conference details below line 10, using the given format. 
 3. Scroll down, click the green button **Commit changes**. 
 
