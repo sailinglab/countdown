@@ -22,7 +22,7 @@ deadlines.push({
 
 - `venue`: name of the conference
 - `area`: field of research
-- `deadline`: deadline of the conference. You only need to edit the datetime string. The 4-digit suffix is for UTC offsets, for example `−0500` for EST. See [UTC offsets][1] and [Timezone abbreviations][2]. 
+- `deadline`: deadline of the conference. You only need to edit the datetime string. The 4-digit suffix is for UTC offsets, for example `−0500` for EST, since it is UTC−05. See [UTC offsets][1] and [Timezone abbreviations][2]. 
 - `website`: optional, conference website
 - `approx`: optional, warning message will be displayed if this field is set
 
