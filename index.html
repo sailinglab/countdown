@@ -242,7 +242,7 @@ function refreshDisplay() {
     var timeLeft= dl.deadline - d;
     
     warningString= "";
-    if("approx" in dl) { warningString= "based on previous year!"; }
+    if(dl.approx == 1) { warningString= "based on previous year!"; }
 
     prefix = "";
     suffix = "";
